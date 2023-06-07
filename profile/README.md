@@ -1,5 +1,8 @@
-# GDSC NIT Calicut
-![gdsc_logo](https://i.ibb.co/NTLswnH/gdsc-logo.png)
+<h1 align="center">
+          GDSC NIT Calicut
+ </h1>
+<div align="center">![gdsc_logo](https://i.ibb.co/NTLswnH/gdsc-logo.png)</div>
+
 Welcome to the official GitHub repository of Google Developer Student Club (GDSC) at NIT Calicut! We are a passionate community of students dedicated to exploring, learning, and sharing knowledge about Google technologies and fostering innovation.
 
 ## About Us
