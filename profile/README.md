@@ -30,5 +30,7 @@ We welcome all students, irrespective of their skill levels, to join GDSC NIT Ca
 If you have any questions, suggestions, or want to collaborate, feel free to reach out to us:
 
 Email: google_dsc@nitc.ac.in
+
 Website: https://gdsc.community.dev/national-institute-of-technology-nit-calicut/
+
 Let's learn, innovate, and make a difference together!
